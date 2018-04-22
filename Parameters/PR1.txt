@@ -1,0 +1,7 @@
+__APPLICATION_NAM="competence"
+__APPLICATION_NAME=value2
+__APPLICATION_NAME3=value4
+dsad=value4
+dasd=value8
+
+gfdsag=value9
